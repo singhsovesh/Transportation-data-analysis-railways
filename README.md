@@ -171,11 +171,8 @@ Run all cells from top to bottom. Each level is clearly marked and self-containe
 
 ## 👤 Author
 
-**[Your Name]**
+**[Sovesh Singh]**
 Data Science Intern — Sysslan IT Solutions
-
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
 
 ---
 
