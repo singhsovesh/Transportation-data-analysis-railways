@@ -110,6 +110,9 @@ Average prediction error: 151.5 minutes.
 
 ---
 
+## Project Output
+![Output Screenshort](task2_full_dashboard.png)
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
